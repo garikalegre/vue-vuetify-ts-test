@@ -1,0 +1,15 @@
+export default {
+    PROFILES_LIST_LOADING: 'profilesListLoading',
+    PROFILE_LOADING: 'profileLoading',
+    FILTERS_LOADING: 'filtersLoading',
+    CLEAR_PROFILES_LIST_STATE: 'clearProfilesListState',
+    CLEAR_PROFILE_STATE: 'clearProfileState',
+    CLEAR_FILTERS_STATE: 'clearFiltersState',
+    SAVE_PROFILES_LIST: 'saveProfilesList',
+    SAVE_PROFILE: 'saveProfile',
+    SAVE_FILTERS: 'saveFilters',
+    REMOVE_FILTER: 'removeFilter',
+    SAVE_SELECTED_FILTER: 'saveSelectedFilter',
+    INCREMENT_SEARCH_PAGE: 'incrementSearchPage',
+    UPDATE_PROFILES_LIST: 'updateProfilesList',
+};
